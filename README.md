@@ -1,2 +1,2 @@
-# ML---Ticket-Cancellation-
-Assignment for Machine Leaning course AI 511. Prediction weather a ticket will be cancelled or not.
+# ML:Ticket Cancellation Prediction
+Assignment for Machine Learning course AI 511. Prediction whether a ticket will be canceled or not.
